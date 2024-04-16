@@ -1,0 +1,3 @@
+# Ignore everything in the mixture_data folder
+mixture_data/*
+
