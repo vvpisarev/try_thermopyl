@@ -1,4 +1,7 @@
 # Ignore everything in the mixture_data folder
 mixture_data/*
+julia_out/*
+CubicEoSScripts-main/*
+CubicEoSScripts-main.zip
 .ipynb_checkpoints/*
 
